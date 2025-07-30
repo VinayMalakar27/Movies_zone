@@ -16,7 +16,7 @@
 
 ## 🖼 Preview
 
-![Movie Zone Preview](./assests/)
+![Movie Zone Preview](movies_Zone\src\assets\Movie-Zone.png)
 
 > Click buttons like "Action", "Horror", "Drama", etc., to filter movies dynamically.
 
