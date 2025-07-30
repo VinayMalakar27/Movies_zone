@@ -16,7 +16,7 @@
 
 ## 🖼 Preview
 
-![Movie Zone Preview](https://image.tmdb.org/t/p/original/yDHYTfA3R0jFYba16jBB1ef8oIt.jpg)
+![Movie Zone Preview](./assests/)
 
 > Click buttons like "Action", "Horror", "Drama", etc., to filter movies dynamically.
 
