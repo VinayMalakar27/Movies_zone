@@ -109,24 +109,15 @@ export const movies = [
     "https://image.tmdb.org/t/p/original/ov9qL3F2UmsA1rJ8fWvLQTO1ZzJ.jpg",
   category: "Horror",
 },
-{
-  id: 807172,
-  title: "The Exorcist: Believer",
-  release_date: "2023-10-04",
-  backdrop_path:
-    "https://image.tmdb.org/t/p/original/hU1Wv1mEFU3naUwdh7daVF7HJhT.jpg",
-  poster_path:
-    "https://image.tmdb.org/t/p/original/3LShl6EwqptKIVq6NWOZ0FbZHEe.jpg",
-  category: "Horror",
-},
+
 {
   id: 1008042,
   title: "Thanksgiving",
   release_date: "2023-11-16",
   backdrop_path:
-    "https://image.tmdb.org/t/p/original/efro4duB7agkA2Xl5HE2uFNb9Ue.jpg",
+   "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSMGlL22boSEJbk02IBShwEhHEm6EPnEnHyw&s",
   poster_path:
-    "https://image.tmdb.org/t/p/original/aiueDnEmh7f7UVG6aMftE2AP0xv.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSMGlL22boSEJbk02IBShwEhHEm6EPnEnHyw&s",
   category: "Horror",
 },
 {
@@ -139,16 +130,5 @@ export const movies = [
     "https://image.tmdb.org/t/p/original/A4j8S6moJS2zNtRR8oWF08gRnL5.jpg",
   category: "Horror",
 },
-{
-  id: 575264,
-  title: "Old",
-  release_date: "2021-07-21",
-  backdrop_path:
-    "https://image.tmdb.org/t/p/original/tz5y9YhrVxwWvfaaF2UrxWoNODT.jpg",
-  poster_path:
-    "https://image.tmdb.org/t/p/original/vclShucpUmPhdAOmKgf3B3Z4POD.jpg",
-  category: "Horror",
-},
-
   
 ];
